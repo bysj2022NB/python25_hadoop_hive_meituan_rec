@@ -1,0 +1,2 @@
+# python25_hadoop_hive_meituan_rec
+计算机毕业设计Hadoop+Spark知识图谱美团美食推荐系统 美团餐厅推荐系统 美团推荐系统 美食价格预测 美团爬虫 美食数据分析 美食可视化大屏
